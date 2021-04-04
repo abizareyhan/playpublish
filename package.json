@@ -1,9 +1,9 @@
 {
   "name": "playpublish",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./lib/publishApp.js",
   "bin": {
-    "playpublish-cli": "./bin/index.js"
+    "playpublish": "./bin/index.js"
   },
   "dependencies": {
     "googleapis": "^68.0.0",
