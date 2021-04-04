@@ -1,0 +1,14 @@
+{
+  "name": "playpublish",
+  "version": "0.0.1",
+  "main": "./lib/publishApp.js",
+  "bin": {
+    "playpublish-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "googleapis": "^68.0.0",
+    "ora": "^5.4.0",
+    "prompts": "^2.4.1"
+  },
+  "author": "abizareyhan"
+}
